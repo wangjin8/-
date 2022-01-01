@@ -2,3 +2,4 @@ python manage.py makemigrations  # 创建数据库迁移文件
 # 这次执行是为了创建app中的class模型类的迁移文件
 python manage.py
 # 将新添加的模型类迁移文件生成对应SQL并执行，实际创建出来对应的表
+这个记录
